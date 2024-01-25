@@ -5,10 +5,10 @@ Node-red es una herramienta de programación implementada en un dispositivo cont
 ### MATERIAL
 Para realizar esta practica es necesario instalar nuestro programa NODE-RED.
 #### PASOS A SEGUIR
-1. Abra el programa:
+1. Abrir el programa:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED/blob/main/node.0.png)
 
-2. Abrir al panel de control en la esquina superior derecha de la pantalla.haga clic izquierdo en el icono de tres rayas horizontales, esto desplegará un menú en el cual tiene que seleccionar y hacer clic izquierdo en "Administrar Opción "Paleta" como se muestra a continuación.
+2. Abrir al panel de control en la esquina superior derecha de la pantalla.le damos clic izquierdo en el icono de tres rayas horizontales, esto desplegará un menú en el cual tiene que seleccionar y hacer clic izquierdo en "Administrar Opción "Paleta" como se muestra a continuación.
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED/blob/main/node0.0.png)
 
 3. Cuando aparezca la ventana Configuración de usuario, debe buscar e instalar el nodo node-red-dashboard.
